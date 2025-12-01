@@ -46,6 +46,6 @@ This project uses a Solidity smart contract for immutability and transparency.
 
 ---
 
-## 👤 Author
-Abhishek  
-BE IoT, Cybersecurity & Blockchain  
+## 👤 Authors
+Abhinaya,Anupama,Triveni 
+BE IoT, Cybersecurity & Blockchain-Technology  
